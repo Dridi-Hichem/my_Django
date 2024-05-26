@@ -1,0 +1,20 @@
+body{
+  background: url(https://www.nasa.gov/wp-content/uploads/2024/03/fy25-budget-cover-no-text.png?w=1920);
+}
+
+div{
+  background-color: blue;
+  border-color: yellow;
+  border-width: 4px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+  text-align: center;
+}
+
+span{
+  background: red;
+  color: black;
+}

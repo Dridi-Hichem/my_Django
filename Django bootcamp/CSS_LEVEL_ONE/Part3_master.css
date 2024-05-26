@@ -1,0 +1,30 @@
+.firstDiv{
+  color: blue;
+}
+
+.secondDiv{
+  color: red;
+}
+
+#singledout{
+  color: green;
+  text-decoration: underline;
+}
+
+h3 + ul{
+  border: 4px dotted purple;
+}
+
+li a{
+  color: red;
+}
+
+img{
+  display: none;
+  width: 50px;
+  height: 50px
+}
+
+a[href="https://www.google.com"]:hover img{
+  display: block;
+}

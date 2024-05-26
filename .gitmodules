@@ -1,0 +1,3 @@
+[submodule "Django 4E/dj4e-samples"]
+	path = Django 4E/dj4e-samples
+	url = git@github.com:csev/dj4e-samples.git

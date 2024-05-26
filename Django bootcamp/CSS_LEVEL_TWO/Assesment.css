@@ -1,0 +1,31 @@
+h1{
+  font-family: "GothicaBookOblique", sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  padding: 8em 4.5em;
+  border: 6px solid white;
+}
+
+#first{
+  background: #FFD9DA;
+}
+#second{
+  background: #EA638C;
+}
+#third{
+  background: #89023E;
+}
+#fourth{
+  background: #30343F;
+}
+#fifth{
+  background: #1B2021;
+}
